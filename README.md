@@ -226,7 +226,7 @@ This learning rate was then used to retrain all the 11 models and evaluated agai
     </tr>
 </table>
 
-and for transfer learning:
+and for transfer learning: 
 
 <table>
     <tr>
@@ -249,26 +249,28 @@ and for transfer learning:
     </tr>
     <tr>
         <th> Indian TSD </th>
-<td>75.77%</td>
-<td>0.76</td>
-<td>0.85</td>
-<td>0.79</td>
-<td>0.05</td>
-<td>70%</td>
-<td>0.7</td>
-<td>0.74</td>
-<td>0.71</td>
-<td>0.19</td>    
+        <td>75.77%</td>
+        <td>0.76</td>
+        <td>0.85</td>
+        <td>0.79</td>
+        <td>0.05</td>
+        <td>70%</td>
+        <td>0.7</td>
+        <td>0.74</td>
+        <td>0.71</td>
+        <td>0.19</td>    
 </tr>
-
+</table>
+    
 Plots for the model performance during the traning phase has been displayed below:
 
 ![9 Models After Hyper-parameter tuning](https://github.com/YuganshG/Comparative-Study-of-different-CNN-Architectures/assets/34838617/bd13862e-e893-4b82-a0a0-d0e7bce77bf3)
 
 ![Transfer Learning After Hyper-Parameters Tuning](https://github.com/YuganshG/Comparative-Study-of-different-CNN-Architectures/assets/34838617/42cc0aee-993f-43ae-92fd-d04ee44010c9)
 
+## t-SNE Visualizations
 
-Also, TSNE has been used to visualize 4 models to compare data separability : AlexNet with/without transfer learning on dataset 1, ResNet-18 without transfer learning on dataset 1 and 3. Results of these are as follows:
+t-SNE has been used to visualize 4 models to compare data separability : AlexNet with/without transfer learning on dataset 1, ResNet-18 without transfer learning on dataset 1 and 3. Results of these are as follows:
 
 ![TSNE Datasets Comparisons](https://github.com/YuganshG/Comparative-Study-of-different-CNN-Architectures/assets/34838617/99ba0d20-8f68-4955-b51d-24b8430650f8)
 
