@@ -27,8 +27,7 @@ main concern while selecting the datasets was the number of images available per
 | Dataset 2 (Persian TS)  | `6.3k:1.6k:1.2k`             | `12`    |
 | Dataset 3 (German TS)   | `11.2k:2.8k:4.6k`            | `8`     |
 
-<img width="500" alt="sign-samples" src="https://github.com/YuganshG/Comparative-Study-of-different-CNN-Architectures/assets/34838617/b2127f14-8c71-4a04-a9b9-31519fbdbe33">
-
+![sign-samples2](https://github.com/YuganshG/Comparative-Study-of-different-CNN-Architectures/assets/34838617/80ece418-4c1c-4c79-819c-4324522d1570)
 
 ## Methodology
 
